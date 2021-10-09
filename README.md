@@ -1,11 +1,10 @@
-# Getting Started with Create React App
+# Batman Tv Show Listing
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Tech Stack
 
-In the project directory, you can run:
-
+React, Redux ,Sass ,Font aws, Netlify
 ### `yarn start`
 
 Runs the app in the development mode.\
